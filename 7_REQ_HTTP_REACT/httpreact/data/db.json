@@ -1,19 +1,44 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Camisa",
-      "price": 59.9
+      "name": "calça colorida",
+      "price": "18.99",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Calça vermelha",
-      "price": 90
+      "name": "camisa amarela",
+      "price": "30",
+      "id": 2
     },
     {
-      "id": 3,
-      "name": "Boné aba reta",
-      "price": 29.9
+      "name": "bota azul",
+      "price": "45",
+      "id": 3
+    },
+    {
+      "name": "bermuda rosa",
+      "price": "45",
+      "id": 4
+    },
+    {
+      "name": "bandana",
+      "price": "10",
+      "id": 5
+    },
+    {
+      "name": "blusa frio",
+      "price": "85",
+      "id": 6
+    },
+    {
+      "name": "camisa laranja",
+      "price": "23",
+      "id": 7
+    },
+    {
+      "name": "bone",
+      "price": "35",
+      "id": 8
     }
   ]
 }

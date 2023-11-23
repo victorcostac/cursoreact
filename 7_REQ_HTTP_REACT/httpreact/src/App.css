@@ -48,8 +48,9 @@ form {
   justify-content: center;
 }
 
-form input {
+form input{
   display: flex;
   flex-direction: column;
   margin-bottom: 15px;
+  
 }
